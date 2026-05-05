@@ -1,0 +1,17 @@
+# Virtual env
+venv/
+
+# Env files
+.env
+
+# Python cache
+__pycache__/
+
+# Logs
+logs/
+
+# Your folder
+KMS/
+
+# All test files
+test_*.py
